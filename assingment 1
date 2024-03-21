@@ -1,0 +1,49 @@
+Assignment on Hardware for CS50T
+All assignments in CS50 Technology are out of 10 points. A score of 7 points or better (70%) is required to be considered to have "passed" an assignment in this course. Please do not resubmit an assignment if you have already obtained a passing score--we consider that spam, and if detected, the submission will be deleted, meaning you will not receive the score back anyway. You don't receive a final grade at the end of the course, so it will have no bearing on your certificate, and it will only slow down our graders!
+
+Unlike CS50x, assignments in this course are graded on a set schedule, and depending on when you submitted, it may take up to three weeks for your work to be graded. Do be patient! Project scores and assignment status on cs50.me/cs50t (e.g. "Your submission has been received...") will likely change over time and are not final until the scores have been released.
+Email *
+syedsobanali8@gmail.com
+Name *
+Syed Soban Ali
+edX Username *
+SyedSoban
+What is your GitHub username? *
+If you do not already have a GitHub account, you can sign up for one at https://github.com/join. You can then use this account to log in to cs50.me/cs50t to track your progress in the course (your progress will only show up after you have received at least one score release email from CS50 Bot, so do be patient!). Don't worry about seeing a 'No Submissions' message on submit.cs50.io, if you find that. The course collects submissions using Google Forms, and only the gradebook on cs50.me/cs50t is important! 
+Be certain the username you provide is correct! If you provide the wrong username, you will not be able to see your scores. 
+Your GitHub username should not be changed while you are taking this course. The current gradebook system is not designed to accommodate name changes.
+Be sure to remove extraneous characters, such as an @ prefix. Do not input a URL or email address, just your username.
+Github-Soban
+City, State, Country
+Nizamabad, Telangana, India
+Acknowledgement *
+Unlike our course CS50x, grading in this course is not done automatically, and there are human reviewers for each assignment. Grading may, depending on exactly when in our grading cycle you submit, take up to three weeks from the time you submit. Your grade status may change in your gradebook at cs50.me/cs50t in the interim, but grades are never final until you receive a score release email from CS50 Bot (on this first assignment, in fact, your gradebook may not even become active until that score release email). The staff cannot entertain requests for expedited grading under any circumstance. Your patience is appreciated.
+I understand.
+This course is graded by human graders, and has a ZERO TOLERANCE plagiarism and collaboration policy. If *any* of your answers are copied and pasted from, or obviously based on (a) an online source, including non-course-sanctioned generative AI tools or (b) another student's work in the course, in *any* of the course's six assignments, you will be reported to edX and removed from the course immediately. There is no opportunity for appeal. There are no warnings or second chances. *
+It is far better, we assure you, to leave an answer blank rather than risk it. This may be an online course, but it is offered by Harvard, and we're going to hold you to that standard. The full essence of all work you submit to this course should be your own.
+I understand this policy and agree to its terms; I hereby affirm that I will not plagiarize any answers in this course.
+What are you hoping to get out of this course?
+understanding of computers and technolagy
+If, like me, you sometimes count using your fingers, odds are you can count up to 5 things on one hand (using 5 fingers). But that's if you're using "unary" notation, whereby you only have a single digit (pun intended) at your disposal, a finger, which you can think of as a 1. Binary, by contrast, allows you to use two digits, 0 and 1. How high could you count on one hand (with 5 fingers) using binary? Assume that a raised finger represents a 1 and a lowered finger represents a 0. 
+31
+Recall that we looked at ASCII in lecture, which uses just 7 or 8 bits to represent letters of the alphabet. Read up on "Unicode," as via Google, and explain in your own words how Unicode is able to represent many more symbols than can ASCII, which is particularly helpful for written languages with many more characters than English. 
+Unicode uses a variable-length encoding scheme with more bits per character compared to ASCII, also Unicode allowing it to represent a much larger number of symbols, including those from languages with extensive character sets beyond English.
+01000001 01101110 01110011 01110111 01100101 01110010 00100000 01101001 01110011 00100000 00110100 00110010 00101110
+There's a way to make this meaningful; find it!
+"Answer is 42"
+Describe at least one key difference, other than size/storage capacity, between RAM and hard disk.
+both RAM and hard disks store data, RAM provides fast access for active programs and data but loses its contents when the power is off, whereas hard disks offer slower access times but provide non-volatile storage for long-term data retention.
+Some computers, particularly PCs, come with stickers that say "Intel Inside." What is it that's inside of most computers that's made by Intel? In your own words, what does that hardware do?
+(if CPU=brain) then "Intel Inside," it means that the computer has an Intel-made brain!
+Roughly how much RAM might a new laptop come with these days?
+Provide ONE answer, not a range of possible answers.
+8GB of RAM
+Roughly how much disk space might a new laptop come with these days?
+Provide ONE answer, not a range of possible answers.
+512GB
+Name a single device that can be connected to a laptop or desktop via "USB".
+printer
+What purpose does a device driver serve?
+enabling communication between an operating system and a specific hardware device.
+Even though both are wireless, how does Wi-Fi differ from Bluetooth? You're welcome to Google as needed, but take care to distinguish the two in your own words.
+Wi-Fi is primarily used for networking and internet access over longer distances and higher speeds, where as Bluetooth is only for short area
